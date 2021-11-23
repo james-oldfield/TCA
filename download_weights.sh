@@ -1,0 +1,1 @@
+wget -nd -q --show-progress --execute="robots = off" --mirror --convert-links --no-parent --reject '*index.html*' -P ./weights/ http://eecs.qmul.ac.uk/~jo001/TCA-latent-space/weights

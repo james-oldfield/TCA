@@ -1,0 +1,8 @@
+numpy==1.19.4
+scipy==1.6.1
+tensorflow==2.3.1
+torch==1.7.1
+natsort==7.0.1
+imageio==2.9.0
+Pillow==8.3.1
+tensorly==0.6.0
