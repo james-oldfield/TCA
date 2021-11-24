@@ -71,8 +71,22 @@ $ python main.py --cp_rank 0 --tucker_ranks "256,4,4,512" --model_name pggan_cel
   --attribute_to_edit thick
 ```
 
+# citation
 
----
+If you find our work useful, please consider citing our paper:
+
+```bibtex
+@InProceedings{oldfield2021tca,
+  author = {Oldfield, James and Markos, Georgopoulos and Panagakis, Yannis and Nicolaou, Mihalis A. and Ioannis, Patras},
+  title = {Tensor Component Analysis for Interpreting the Latent Space of GANs},
+  booktitle = {BMVC},
+  month = {November},
+  year = {2021}
+}
+```
+
+
+# contact
 
 **Please feel free to get in touch at**: `j.a.x@qmul.ac.uk`, where `x=oldfield`
 
