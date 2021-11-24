@@ -1,8 +1,8 @@
 # Tensor Component Analysis for Interpreting the Latent Space of GANs
 
-#### [ [paper](https://www.bmvc2021-virtualconference.com/assets/papers/1617.pdf) | [project page](http://eecs.qmul.ac.uk/~jo001/TCA-latent-space/) ]
+#### [ [paper](https://arxiv.org/abs/2111.11736) | [project page](http://eecs.qmul.ac.uk/~jo001/TCA-latent-space/) ]
 
-Code to reproduce the results in the paper "Tensor Component Analysis for Interpreting the Latent Space of GANs".
+Code to reproduce the results in the paper ["Tensor Component Analysis for Interpreting the Latent Space of GANs"](https://arxiv.org/pdf/2111.11736.pdf).
 
 ![./images/teaser.png](./images/teaser.png)
 
