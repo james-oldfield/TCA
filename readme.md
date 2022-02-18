@@ -77,7 +77,7 @@ If you find our work useful, please consider citing our paper:
 
 ```bibtex
 @InProceedings{oldfield2021tca,
-  author = {Oldfield, James and Markos, Georgopoulos and Panagakis, Yannis and Nicolaou, Mihalis A. and Ioannis, Patras},
+  author = {Oldfield, James and Georgopoulos, Markos and Panagakis, Yannis and Nicolaou, Mihalis A. and Ioannis, Patras},
   title = {Tensor Component Analysis for Interpreting the Latent Space of GANs},
   booktitle = {BMVC},
   month = {November},
